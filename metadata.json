@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Coach",
+  "description": "An AI-powered coach that analyzes your tasks and goals to automatically generate prompts using the optimal framework (TCREI, CLEAR, or a combination), based on your German input.",
+  "requestFramePermissions": []
+}
